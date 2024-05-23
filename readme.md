@@ -1,4 +1,4 @@
-# Vikunja Emoji
+# Vikunja Emoji 🦙
 This is simple script to update task names with emojis.
 
 It is being done with ChatGPT, which helps to provide proper emoji for given text. This app works best with english names, but should make do with other languages.
